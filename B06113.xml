@@ -1,0 +1,440 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To my Lord Arch-Bishop of Canterbury, upon his famous erection, the theater in Oxford.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1675</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B06113</idno>
+            <idno type="STC">Wing T1382</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.20.f.2[101]</idno>
+            <idno type="EEBO-CITATION">99886911</idno>
+            <idno type="PROQUEST">ocm99886911</idno>
+            <idno type="VID">181428</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B06113)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 181428)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A1:1[102])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>To my Lord Arch-Bishop of Canterbury, upon his famous erection, the theater in Oxford.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>Printed for C.S.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>anno Domini, MDCLXXV [1675]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Verse: "Our English stories blush not to present".</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-07</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2009-07</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="poem">
+            <pb facs="tcp:181428:1" rendition="simple:additions"/>
+            <head>To my Lord Arch-Biſhops of CANTERBURY, Upon His Famous Erection, The THEATER in OXFORD.</head>
+            <opener>
+               <salute>MY LORD,</salute>
+            </opener>
+            <lg>
+               <l>OUR <hi>Engliſh</hi> Stories bluſh not to preſent</l>
+               <l>A generous Waſt, a Brave Demoliſhment,</l>
+               <l>And Fame her ſelf commends it to our hands,</l>
+               <l>Twenty ſix Towns ſtood, where <hi>New Forreſt</hi> ſtands,</l>
+               <l>But this Renown You ever will enjoy,</l>
+               <l>You Build more, than the Conquerour did Deſtroy.</l>
+            </lg>
+            <lg>
+               <l>While the wide World endures, We muſt confeſs</l>
+               <l>
+                  <hi>Sinai,</hi> a Venerable Wilderneſs.</l>
+               <l>Let then no vile Detraction dare to 'bate,</l>
+               <l>Where Kings Magnificently Depopulate.</l>
+               <l>Whether thoſe Towns were large, or th'Tenements poor,</l>
+               <l>With their Walls Loam, Tile, Thatch, &amp; Earth the Floor,</l>
+               <l>What Orchards, Gardens, Paſture-grounds lay to't,</l>
+               <l>What Arable, let Chronologers compute;</l>
+               <l>Expired Ages their own Downfals grieve,</l>
+               <l>You build the Envie of the Age You live.</l>
+               <l>
+                  <hi>Egypt,</hi> in elder times the World did fill,</l>
+               <l>With Trophies of her Structures, and her Skill;</l>
+               <l>But moſt admired Prelate! You impart</l>
+               <l>Piles 'bove her Pyramides, Scienc's 'bove her Art.</l>
+            </lg>
+            <lg>
+               <l>Though thy deep-Learned ſelf, decry the powers</l>
+               <l>Of meaner Foiles, and Set-offs from thy Towers,</l>
+               <l>Yet do thy Fabricks ſo exceed belief,</l>
+               <l>Thou art Great, though thoſe mean-Glories were thy chief.</l>
+            </lg>
+            <lg>
+               <l>What bold Erection ſtarts not to appear,</l>
+               <l>In competition with Thy <hi>Theater</hi>?</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Pompey's</hi> great Structure much admired ſtood,</l>
+               <l>Yet mingled was 'twixt Excellent, and Good;</l>
+               <l>Though its perfection ſome in vain Protect,</l>
+               <l>Compared with Thine, 'twas Ruins when Erect.</l>
+            </lg>
+            <lg>
+               <l>This Model would renew fierce <hi>Nero</hi>'s frown,</l>
+               <l>That Murderer of his Mother, and his Town:</l>
+               <l>Striving to ſample this, he ſoon would find</l>
+               <l>His artleſs Platform, fall ſo far behind,</l>
+               <l>The Furies would award Him equal Doom,</l>
+               <l>For building up, as for his burning ROME.</l>
+            </lg>
+            <lg>
+               <l>The Adverſe <hi>French</hi> and <hi>Spaniards</hi> here accord,</l>
+               <l>Agreeing Praiſes, to this Work afford,</l>
+               <l>And pity thoſe, whoſe commendations fall</l>
+               <l>Or on their LOOVRE, or ESCURIAL.</l>
+               <l>But waving Them, ſend Artiſts here to ſee</l>
+               <l>Not what thoſe Great Courts are, but ought to be.</l>
+               <l>(Gay pompous Cottages! and ſit alone</l>
+               <l>To ſlumber out a Life in, and be gone.)</l>
+            </lg>
+            <lg>
+               <l>Near Earth's deep Centre the Foundation lies,</l>
+               <l>While the Rooſe bids Good Morning to the Skies.</l>
+               <l>Whoſe unſupported Arch floats in the Air,</l>
+               <l>As if no Building but a Bird hung there.</l>
+               <l>As <hi>Mahomets</hi> Tombe contends the ground to preſs,</l>
+               <l>But ſeems reſtrain'd below, by emptineſs:</l>
+               <l>Bid no attractive Agent buoy up all,</l>
+               <l>Without His Epilepſie He muſt fall,</l>
+               <l>And his blind Votaries who under kneel,</l>
+               <l>The Fatal preſſure of their Prophet feel;</l>
+               <l>The Tomb had chruſht, and cover'd 'em ere this,</l>
+               <l>And been Their Monument, as well as His.</l>
+               <l>Theſe Arches ſwim aloft, ſecure from harm,</l>
+               <l>Without the fraud of his Magnetick charm,</l>
+               <l>Where once arriv'd, themſelves Protect,</l>
+               <l>Inſtructed by myſterious Architect:</l>
+               <l>Angles to Angles, Squares to Squares apply,</l>
+               <l>Each ſtone is Loadſtone to his next Allie.</l>
+               <l>As in the Orbs no groaning Pillar bears</l>
+               <l>The preſſure of the ſelf-ſuſteined Sphears,</l>
+               <l>But all the Axis (Grave <hi>Aſtronomers</hi> Theam)</l>
+               <l>Is firm Imagination, but not Beam;</l>
+               <l>Whoſe each extream fixt to ſome phanſy'd Pole,</l>
+               <l>Means but due Contiguation of the Whole.</l>
+               <l>So here, while parts to equal parts reſort,</l>
+               <l>They their own Beauty are and own Support.</l>
+               <l>Yet as by chance contriv'd and not by wit,</l>
+               <l>They ſeem, but dropt down aptly, and fall'n fit.</l>
+            </lg>
+            <lg>
+               <l>Here no created weight or more or leſs</l>
+               <l>Can the ſtrong ſinews of the Arch depreſs,</l>
+               <l>But fearleſs, all attempts ſhe diſappoints,</l>
+               <l>By the ſecure contexture of her Joints.</l>
+               <l>Her Burdens numberleſs, breed no miſhaps,</l>
+               <l>But cloſe the ſpaces, and endear the Gaps.</l>
+            </lg>
+            <lg>
+               <l>Huge rockey-Mountains up ſmall Pullies call,</l>
+               <l>And ſtrongly rivet by their Gradual fall:</l>
+               <l>Vaſt Trunks of Oak they <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>, and by the proof</l>
+               <l>Of ſlender Cords entice them to the Roof.</l>
+               <l>So the ponderous Eagle riſes by degrees,</l>
+               <l>When with undaunted eyes the Sun ſhe ſees,</l>
+               <l>And by like Stratagems ſhe does advance,</l>
+               <l>Him, and his Rayes ſtares out of countenance.</l>
+               <l>Againſt the Clouds her mounting Creſts ſhe flings,</l>
+               <l>Born by the frail Foundation of her wings.</l>
+            </lg>
+            <lg>
+               <l>Unleſs ſcrew'd up, wedg'd in, and mortis'd thus;</l>
+               <l>The ſlighteſt Lark, would die a <hi>Daedalus,</hi>
+               </l>
+               <l>Daſht gainſt rude Rocks, would tumbling fall down right,</l>
+               <l>Bemoaning the Ambition of her flight.</l>
+               <l>But Air crowds cloſe to Air, to skreen off Fate</l>
+               <l>From her aſpiring and Harmonious weight.</l>
+               <l>This Managery doth not on Toyl relie,</l>
+               <l>But Diſſonant materials Harmony:</l>
+               <l>Mens Brawney Arms, and Shoulders ſuffer leſs;</l>
+               <l>On Mathematicks Conſort lies the ſtreſs.</l>
+               <l>
+                  <hi>Amphion</hi> when to raiſe His <hi>Thebes</hi> He falls,</l>
+               <l>His Lute feels all the labour of the Walls.</l>
+            </lg>
+            <lg>
+               <l>Dreſs'd in their Leaves, and bark they once did bow,</l>
+               <l>Trees folllow'd <hi>Orpheus</hi> then, but Timber now,</l>
+               <l>Squar'd, and cut out, proportion'd, ſmooth'd, and fil'd,</l>
+               <l>This Art the Wood obeys, His, but the wild.</l>
+            </lg>
+            <lg>
+               <l>Bold <hi>Archimedes,</hi> if theſe Arts he knew,</l>
+               <l>He might diſplace the World, and place it new:</l>
+               <l>Fixing his powerful Engine, ſure to bear,</l>
+               <l>Upon ſome ſolid Nothing, in no where.</l>
+               <l>No cunning is ſo nice, no Art ſo Rare,</l>
+               <l>Except thoſe Arts alone that are taught there.</l>
+               <l>To ſome leſs wary in Diſtinguiſhing,</l>
+               <l>The bare Name <hi>Theater</hi> depraves the Thing;</l>
+               <l>Thither they come entangled in their fears,</l>
+               <l>Of meeting Savage Objects! Panthers, Bears,</l>
+               <l>Wolves, Lions, Tygers! Theſe thus prepoſſeſt</l>
+               <l>Expect ſome Splendid Deſert at the beſt,</l>
+               <l>
+                  <hi>Africk</hi> immur'd! for ſuch they have been told,</l>
+               <l>Were all the Ancient <hi>Theatres,</hi> of Old.</l>
+               <l>But all the ſights in this Majeſtick Frame</l>
+               <l>Are like the Spectators, Tractable and Tame.</l>
+               <l>No mangled Gladiators here intrude;</l>
+               <l>No Tragick, nor no Mimick interlude:</l>
+               <l>But all the hours they ſolemnly beguile,</l>
+               <l>And ne'r excite our ſorrow, nor our ſmile.</l>
+               <l>The Doctors of all Faculties, and Arts,</l>
+               <l>Out-ſhine their Scarlet with their Radiant Parts.</l>
+               <l>Few hours in graveſt State of queſtions ſpent,</l>
+               <l>Opponents brandiſh Dint of Argument:</l>
+               <l>Till in ſubjection to Victorious brains,</l>
+               <l>The captive Adverſary ſighs in chains.</l>
+            </lg>
+            <lg>
+               <l>Of all the Statelies in this Orbs diſpoſe, <note place="margin">The Divi<g ref="char:EOLhyphen"/>nity Act.</note>
+               </l>
+               <l>The choiceſt Canton is reſerv'd for thoſe,</l>
+               <l>Who prove all Praiſe ev'n to this <hi>Theatre</hi> lent,</l>
+               <l>Moſt due to that above the Firmament.</l>
+               <l>And ſuch the ſacred Sons of <hi>Aaron</hi> be,</l>
+               <l>Who would fain confute us into Eternity.</l>
+            </lg>
+            <lg>
+               <l>If ſome in heat of Diſputation ſtray,</l>
+               <l>From Saint <hi>Ignatius</hi> to <hi>Loyala,</hi>
+               </l>
+               <l>Then the profound Profeſſor ſoon recalls,</l>
+               <l>By Fathers, Schools, Councils, Originals.</l>
+               <l>Such was the Grave, the Primitive Decree;</l>
+               <l>But ſome Divines are now o'th Livery;</l>
+               <l>Religion's Artifice; and Shop-men ply't,</l>
+               <l>Not to gain Proſelites, but Cuſtom by't;</l>
+               <l>Their Sermons ſell their Wares: who can invade</l>
+               <l>With ſtouteſt Lungs, O! He's the Man of Trade.</l>
+               <l>Yet, 'mongſt the Wiſe, or worthy, theſe Tricks fall,</l>
+               <l>Produce three <hi>Gentry-Juglers</hi> and take All.</l>
+            </lg>
+            <lg>
+               <l>Next theſe, the Learned <hi>AEſculapian.</hi> Train <note place="margin">The Phy<g ref="char:EOLhyphen"/>ſick Act.</note>
+               </l>
+               <l>Seek to retrieve their loſt Rights, (Oh! in vain)</l>
+               <l>Gainſt Bills, and poſting Empricks they inveigh,</l>
+               <l>And prove, no Peſtilence devours like they</l>
+               <l>In penſion with the Graves; their ſureſt Truſt</l>
+               <l>(The Serpents curſe) is, <hi>Thou ſhalt eat the Duſt.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Next, civil <hi>Sanctions</hi> guarding Man from Man, <note place="margin">
+                     <hi>The Ci<g ref="char:EOLhyphen"/>vil Law Act.</hi>
+                  </note>
+               </l>
+               <l>Rich Treaſures? left us by <hi>Juſtinian,</hi>
+               </l>
+               <l>
+                  <hi>Codes, Pandects, Digeſts,</hi> ſet a ſhore to Pride,</l>
+               <l>And wrong through all the World. Who can decide</l>
+               <l>Which of the Two have more Extenſive Claws,</l>
+               <l>The <hi>Roman</hi> Eagles, or the <hi>Roman</hi> Laws?</l>
+            </lg>
+            <lg>
+               <l>Throngs of Learn'd Youth fill up the lower ſpace, <note place="margin">
+                     <hi>The Re<g ref="char:EOLhyphen"/>gent Ma<g ref="char:EOLhyphen"/>ſters Act.</hi>
+                  </note>
+               </l>
+               <l>Hoods, whoſe Reverſe are Silks their ſhoulders Grace,</l>
+               <l>Shoulders, which three Years ſince did only claim</l>
+               <l>Leſs-graduate Furrs, the Ermins of the Lamb.</l>
+               <l>Theſe ſeven long Years the Liberal Arts obey,</l>
+               <l>At ſeven Years end, as Liberal as they.</l>
+               <l>And (what's in other Lands a wondrous thing,)</l>
+               <l>Subjects without the <hi>Non-age</hi> of their <hi>KING.</hi>
+               </l>
+               <l>Created Regents all: and ſuch They be,</l>
+               <l>Want but a Scepter for Prince-Regency.</l>
+               <l>For when their Great, or leſſer Meetings call,</l>
+               <l>(Like General Councils, or Provincial)</l>
+               <l>They ratifie all Rejections, and all Choice,</l>
+               <l>By the uncontrolled Empire of their Voice.</l>
+            </lg>
+            <lg>
+               <l>But, leaſt Learn'd Intricates too long perplex,</l>
+               <l>The Attention of the <hi>Lady-gentle</hi> Sex. <note place="margin">
+                     <hi>The Mu<g ref="char:EOLhyphen"/>ſick Act.</hi>
+                  </note>
+               </l>
+               <l>Some ſelect <hi>Orators</hi> brisk, and witty fire</l>
+               <l>With their ingenious Reach bends to conſpire;</l>
+               <l>And Native-Languag'd gains this Preference,</l>
+               <l>
+                  <hi>Muſick,</hi> leſs <hi>Muſick</hi> is than Eloquence.</l>
+               <l>While Rowling <hi>Organs, Viol,</hi> warbling <hi>Lute</hi>
+               </l>
+               <l>So ſwift, ſo ſweet through th' raviſht Audience ſhoot,</l>
+               <l>Intelligences lend aſtoniſht Ears,</l>
+               <l>And ſhame their <hi>Muſick</hi>-more-pretending Sphears.</l>
+            </lg>
+            <lg>
+               <l>What Structure elſe but Prides it to reveal</l>
+               <l>Treaſures? which Baſhful this would fain conceal:</l>
+               <l>As <hi>Pearls</hi> were modeſt grown, Coy to be found,</l>
+               <l>Shading their choiceſt Glories under ground. <note place="margin">The Printing Office un<g ref="char:EOLhyphen"/>der the Theater.</note>
+               </l>
+               <l>Thus <hi>Indian</hi> KINGS <hi>Exchequers</hi> heap up Store:</l>
+               <l>But in their <hi>Mines</hi> lies Infinitely more.</l>
+               <l>The Sacred <hi>Oracles</hi> inſpired Lungs</l>
+               <l>Above, all Truths; Below they ſpeak all Tongues.</l>
+               <l>
+                  <hi>Spain, Gaſcoin, Florence, Smyrna,</hi> and the <hi>Rhine</hi>
+               </l>
+               <l>May taſte their Language there, though not the Wine.</l>
+               <l>The <hi>Jew, Mede, Elomite, Arabian, Crete,</hi>
+               </l>
+               <l>In theſe deep Vault their wandring <hi>Ideoms</hi> meet,</l>
+               <l>And to compute, are in Amazement hurl'd</l>
+               <l>How long ſince OXFORD has been all the <hi>World</hi>!</l>
+            </lg>
+            <lg>
+               <l>Tis Generous to Aſſiſt; They merit Praiſe,</l>
+               <l>Who contribute ſuch Mighty works to raiſe.</l>
+               <l>All that confer, to ſet Loſt <hi>Pauls</hi> to Right,</l>
+               <l>
+                  <hi>Heaven</hi> that Rewadrs their Pounds, regards their Mite,</l>
+            </lg>
+            <lg>
+               <l>Now Natures ſelf ſeems ſtinted; now when ſtuff</l>
+               <l>To cut out Souls is ſcarce allowed enough,</l>
+               <l>To Your free Make are ſuch Ingredients gone,</l>
+               <l>As may ſuffice to Inſoul the Nation.</l>
+               <l>This numberleſs Expence You diſimburſe,</l>
+               <l>Without Aſſociate, or Confederate Purſe.</l>
+               <l>So, have I ſeen one ſpacious Beech contain</l>
+               <l>A vaſt Dimenſion o're a Verdant Plain.</l>
+               <l>She warn'd the Trees, their vain approach forbear,</l>
+               <l>My ſelf am ſtreightned, (Trees than Vocal were)</l>
+               <l>My Root, and Trunk is large, Head broad, and High;</l>
+               <l>Seven hundred Ewes to my Protection flie:</l>
+               <l>And when beneath my leaves thoſe flocks retire,</l>
+               <l>A more commodious Lare none can deſire;</l>
+               <l>I lend them Lodging, Grazing, and Defence,</l>
+               <l>To all their wants a full Convenience.</l>
+               <l>If part of theſe under your branches browze,</l>
+               <l>Who ſhall addreſs to my Remaining Boughs:</l>
+               <l>This Plain is my Demeſnes, while I ſurvive,</l>
+               <l>In yonder Vacant Copſe, ye all may Thrive.</l>
+               <l>Where grateful Lambs, who your fair ſhades repleat,</l>
+               <l>Will Dance, and Sing their Tributary Bleat.</l>
+               <l>Some Frames are Fairly rais'd but to Abuſe;</l>
+               <l>As <hi>Popes</hi> Themſelves eſtabliſh decent ſtews.</l>
+               <l>O, then what Verſe ought to Eternize You,</l>
+               <l>Who build to Beauty, and to Vertue too?</l>
+            </lg>
+            <lg>
+               <l>May thrice three hundred Proſperous years be ſpread,</l>
+               <l>And thrice three Hundred Bliſſes on Thy head,</l>
+               <l>Thy Head! who with Thy Bounty doſt ſurprize,</l>
+               <l>Greater than moſt have Bounty to Adviſe.</l>
+            </lg>
+            <lg>
+               <l>May Thy Stiles ſwell, Thy numerous Sees diſperſe,</l>
+               <l>Be ſole <hi>Dioceſan</hi> o'th' Univerſe!</l>
+               <l>Till Thou haſt ſpace obtain'd, and Treaſure won,</l>
+               <l>To do, all Thou wouldſt do, and ſee it don.</l>
+            </lg>
+            <lg>
+               <l>Then having finiſht Deeds ſo Good ſo high,</l>
+               <l>Thy next <hi>Arch-Biſhoprick</hi> muſt be the skie.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>C. S.</hi> Anno Domini, <hi>MDCLXXV.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
